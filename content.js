@@ -13,8 +13,6 @@ function dynamicClothingSection(ob) {
   // console.log('link=>' + boxLink);
 
   let imgTag = document.createElement("img");
-  // imgTag.id = 'image1'
-  // imgTag.id = ob.photos
   imgTag.src = ob.preview;
 
   let detailsDiv = document.createElement("div");
