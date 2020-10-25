@@ -1,5 +1,3 @@
-### Enhanced README for E-Commerce Website  
-
 # E-Commerce Website  
 A mobile-responsive sample of an E-Commerce Website built using **HTML**, **CSS**, **JavaScript**, and APIs.  
 
